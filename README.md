@@ -38,13 +38,6 @@
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jira.svg" />
 </p>
 
-### Operating Systems
-
-<p>
-    <img width="190" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/win10.jpg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/ubuntu.svg" />
-</p>
-
 ### 📫 How to reach me?
 
 # ⦿ Visit my [Website](https://kartikfolio.herokuapp.com) 🌐 <br>
