@@ -4,13 +4,13 @@
 
 ## Skills:-
 
-### Backend
+### Backend ###
 
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/node.svg"></img>
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/express.svg"></img>
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mongo.svg"></img>
 
-### Frontend
+### Frontend ###
 
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/html5.svg"></img>
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/css3.svg"></img>
@@ -18,7 +18,7 @@
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jquery.svg"></img>
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/react.svg"></img>
 
-### Testing & CI/CD
+### Testing & CI/CD ###
 
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mocha.svg"></img>
     <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/travis.svg"></img>
