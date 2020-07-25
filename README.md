@@ -1,6 +1,6 @@
 # Hey! I'm Kartik
 
-## An aspiring developer and an engineer, I work on web based app development.
+## An aspiring developer and an engineer, I majorly work on web based application development, looking for opportunities!
 
 ## Skills:-
 
