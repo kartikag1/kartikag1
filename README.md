@@ -38,7 +38,7 @@
     <img width="80" height="80" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jira.svg" />
 </p>
 
-### 📫 How to reach me?
+## 📫 How to reach me?
 
 ### ⦿ Visit my [Website](https://kartikfolio.herokuapp.com) 🌐 <br>
 ### ⦿ Let's connect on [LinkedIn](https://www.linkedin.com/in/kartikag1/) 👨🏻‍💻 <br>
