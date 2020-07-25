@@ -2,7 +2,6 @@
 
 ## An aspiring developer and an engineer, I majorly work on web based application development, looking for opportunities!
 
-## Skills:-
 
 ### Backend
 
@@ -29,6 +28,7 @@
     <img width="80" height="80" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/travis.svg" />
     <img width="110" height="80" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/githubactions.png" />
 </p>
+
 
 ### Project Management
 
