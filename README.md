@@ -7,35 +7,35 @@
 ### Backend
 
 <p>
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/node.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/express.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mongo.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/node.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/express.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mongo.svg" />
 </p>
 
 ### Frontend 
 
 <p>
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/html5.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/css3.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/js.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jquery.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/react.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/html5.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/css3.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/js.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jquery.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/react.svg" />
 </p>
 
 ### Testing & CI/CD
 
 <p>
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mocha.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/travis.svg" />
-    <img width="180" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/githubactions.png" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mocha.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/travis.svg" />
+    <img width="130" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/githubactions.png" />
 </p>
 
 ### Project Management
 
 <p>
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/slack.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/trello.svg" />
-    <img width="150" height="150" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jira.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/slack.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/trello.svg" />
+    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/jira.svg" />
 </p>
 
 ### 📫 How to reach me?
