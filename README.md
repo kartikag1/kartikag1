@@ -7,7 +7,7 @@
 ### Backend
 
 <p>
-    <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/node.svg" />
+    <img width="80" height="80" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/node.svg" />
     <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/express.svg" />
     <img width="100" height="100" src="https://raw.githubusercontent.com/kartikag1/kartikag1/master/assets/mongo.svg" />
 </p>
