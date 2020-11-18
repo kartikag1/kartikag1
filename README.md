@@ -1,6 +1,5 @@
 # Hey! I'm Kartik
 
-## An aspiring software developer and an engineer, I have experience working in web based application development space, looking for opportunities!
 
 ## 📫 How to reach me?
 
