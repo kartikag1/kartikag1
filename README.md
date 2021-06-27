@@ -1,8 +1,5 @@
 # Hey! I'm Kartik
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikag1&theme=highcontrast)](https://git.io/streak-stats)
-
-
 
 ## 📫 How to reach me?
 
